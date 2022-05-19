@@ -9,4 +9,6 @@
 // git remote -v : Github repository랑 내 로컬 프로젝트랑 연결되었는지 확인
 // git push origin master : Github로 올리기 
 
+// git remote -v : 현재 연결된 현재 연결되어 있는 원격 레파지토리를 확인
+
 // 계속 업데이트 할거면 add -> history -> origin 순으로 반복하면된다.
